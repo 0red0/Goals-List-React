@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Goals-List-React/static/css/main.cbc93139.css",
+    "main.js": "/Goals-List-React/static/js/main.72e5cf57.js",
+    "index.html": "/Goals-List-React/index.html",
+    "main.cbc93139.css.map": "/Goals-List-React/static/css/main.cbc93139.css.map",
+    "main.72e5cf57.js.map": "/Goals-List-React/static/js/main.72e5cf57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbc93139.css",
+    "static/js/main.72e5cf57.js"
+  ]
+}
